@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-mtvgby.trans88.biz/sitemap.xml
